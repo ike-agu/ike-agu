@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ikenna
 
-I am  transitioning into full stack web development. 
+ 
 I recently graduated from Le Wagon coding book camp in London. I am passionate about writing clean codes , building web apps and I love to learn.  I'm currently looking for the right opportunity to work in an environment that will help me progress in this new career path.
 
 
