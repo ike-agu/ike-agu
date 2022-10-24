@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ikenna
+### Hi there 👋 I'm Ikenna
 
 A Web developer from London
 - Interested in Product Management
